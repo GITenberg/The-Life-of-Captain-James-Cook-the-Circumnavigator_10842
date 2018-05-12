@@ -1,5 +1,8 @@
 _repo: The-Life-of-Captain-James-Cook-the-Circumnavigator_10842
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kitson, Arthur
@@ -12,6 +15,8 @@ description: '"Captain James Cook was one of the greatest most famous British ex
   by feeding his crew limes that gave them the yet to be discovered vitamin C. Cook
   also mapped much of the American west coast from Oregon up to Alaska. He discovered
   New Zealand and Australia''s Great Barrier Reef on which he crashed his ship."--Advertisement.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10842#The-Life-of-Captain-James-Cook-the-Circumnavigator
 gutenberg_bookshelf:
 - New Zealand
 - Australia
